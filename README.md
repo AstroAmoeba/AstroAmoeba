@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python, etical hacking, gamedev and a bit of everything.
 - 💞️ I’m looking to collaborate on open source, academic projects and just for fun thingies. 
 - 📫 Can reach me via discord: astroamoeba#7365
-- 💀 Expert n0ob at your service.
+- 💀 filthy casual
 
 <!---
 AstroAmoeba/AstroAmoeba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
